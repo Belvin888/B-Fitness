@@ -1,0 +1,145 @@
+
+/* top */
+.a{
+ background: linear-gradient(to left,#ffc764, #ffc85c 30%,#fdb827 );
+}
+
+.navbar-brand{
+
+  padding-left: 70px;
+}
+.nav-link{
+  font-size: 1.4rem;
+  font-weight: 900;
+  margin: 0 7px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.top-img{
+  width: 100%;
+  height: 440px;
+}
+.container-fluid {
+  position: relative;
+}
+.text-block {
+  position: absolute;
+  top: 50px;
+  left: 100px;
+  background: rgba(255, 255, 255, 0.2);
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bolder;
+  text-align: center;
+  font-size: 4.3rem;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: #fff;
+  border-width: 7px;
+
+}
+.navbar-brand,.nav-link,.text-block{
+color: #fff;
+}
+
+/* Pricing */
+#pricing{
+  padding: 100px;
+}
+.row{
+padding-left: 15%;
+padding-right: 5%;
+}
+.pr-h{
+  text-align: center;
+  font-size: 3rem;
+}
+.p-c{
+  padding: 3% 2%;
+}
+.card{
+  text-align: center;
+}
+.card-img-top{
+  width: auto;
+  height: 210px;
+}
+.card-title,.card-text{
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+.card-title,.card-text,.pr-h{
+  font-family: 'Poppins', sans-serif;
+}
+
+/* title */
+
+
+#title{
+  padding: 3% 15%;
+  background: linear-gradient(to left,#ffc764, #ffc85c 30%,#fdb827 );
+}
+.ti-he{
+  font-weight: bold;
+  font-size: 2rem;
+
+}
+.ti-ab{
+  padding: 5%;
+}
+.icon{
+  display: inline-block;
+   margin: 15px 15px;
+}
+.icon:hover{
+  color:#fa1e0e;
+}
+.join-n{
+  font-size: 1.2rem;
+
+}
+.join-n,.ti-ab,.ti-he{
+    text-align: center;
+}
+
+.ti-tx,.icon{
+ color: #fff;
+}
+.ti-he,.join-n{
+  font-family: 'Poppins', sans-serif;
+}
+
+/* aboutus */
+.abu-h{
+  padding-top: 6%;
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+.abu-text{
+  font-size: 1.4rem;
+    padding-bottom: 7%;
+}
+.abu-h,.abu-text{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* contactus */
+.con-u{
+  background: linear-gradient(to left,#ffc764, #ffc85c 30%,#fdb827 );
+  height:300px;
+  width: 100%;
+  text-align: center;
+}
+.con-t{
+  font-size: 2.2rem;
+  padding-top: 5% ;
+}
+.co-ic{
+  color: #fff;
+  padding: 5% 3%;
+}
+.copy{
+  font-family: 'Poppins', sans-serif;
+  padding-top: 4%;
+}
